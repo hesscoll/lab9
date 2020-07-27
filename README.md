@@ -1,6 +1,5 @@
 # CS 110
-## Lab 8 - Creating a List Library
-
+## Lab 9 - Defining your models
 ### [Assignment Description](https://drive.google.com/open?id=1-cyNz1FFQNV4j-R8-4lupqR7JzrUn1UV2tCefwL8ruA)
 
 ***
